@@ -27,7 +27,7 @@
     "eris-reactions": "^0.1.2",
     "ffmpeg-static": "^4.2.2",
     "google-images": "^2.1.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "ms": "^2.1.2",
     "needle": "^2.5.0",
     "path": "0.12.7",
